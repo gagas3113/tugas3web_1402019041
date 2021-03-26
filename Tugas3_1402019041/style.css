@@ -1,0 +1,65 @@
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.column-silinder{
+    float: center;
+    width: 27.33%;
+    height: 300px;
+    border-radius: 25px;
+   margin-top: 20px;
+   margin-left: 90px;
+}
+
+.column-kerucut{
+    float: center;
+    width: 27.29%;
+    height: 300px;
+    border-radius: 25px;
+   margin-top: 20px;
+   margin-left: 90px;
+}
+
+.column-bola{
+    float: center;
+    width: 27.33%;
+    height: 300px;
+    border-radius: 25px;
+   margin-top: 20px;
+   margin-left: 90px;
+}
+
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+.column-hasil{
+    float: center;
+    width: 27.33%;
+    height: 200px;
+    border-radius: 25px;
+    margin-top: 20px;
+    margin-left: 90px;
+    font-family: serif;
+    font-size: 20px;
+   
+}
+
+.row-hasil::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+h2 {
+    text-align: center;
+    
+}
+
+
+  
