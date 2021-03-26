@@ -44,7 +44,7 @@
       <nav class="navbar fixed-bottom navbar-light bg-secondary">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img src="github_PNG15.png" alt="" width="140" height="60" class="d-inline-block align-text-top">
+            <img src="github_PNG15.png" href="https://github.com/gagas3113/tugas3web_1402019041" alt="" width="140" height="60" class="d-inline-block align-text-top">
             
           </a>
           <p style="align-text-right">Gagas / 1402019041 </p>
